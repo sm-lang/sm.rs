@@ -1,0 +1,12 @@
+[workspace]
+members = ["projects/*"]
+default-members = [
+    "projects/sdl-ast",
+    "projects/sdl-pest",
+    "projects/sdl-parser",
+    "projects/sdl-fmt",
+]
+
+[profile.release]
+lto = true
+opt-level = "s"
