@@ -1,10 +1,10 @@
 [workspace]
 members = ["projects/*"]
 default-members = [
-    "projects/sdl-ast",
-    "projects/sdl-pest",
-    "projects/sdl-parser",
-    "projects/sdl-fmt",
+    "projects/sm-ast",
+    "projects/sm-pest",
+    "projects/sm-parser",
+    "projects/sm-types",
 ]
 
 [profile.release]

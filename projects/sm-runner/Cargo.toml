@@ -1,10 +1,10 @@
 [package]
-name = "awsl-lsp"
+name = "sm-runner"
 version = "0.1.0"
 authors = ["Aster <192607617@qq.com>"]
 description = "AWSL Window Structure Language"
 repository = "https://github.com/GalAster/awsl-rs"
-readme = "Readme.md"
+readme = "readme.md"
 license = "MPL-2.0"
 edition = "2018"
 
