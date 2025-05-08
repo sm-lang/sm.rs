@@ -15,6 +15,11 @@ egg = { version = "0.10.0", features = [] }
 path = "../sm-types"
 features = []
 
+
+[dependencies.sm-ast]
+path = "../sm-ast"
+features = []
+
 [dev-dependencies]
 
 [features]
